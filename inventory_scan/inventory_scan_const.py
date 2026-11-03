@@ -1,7 +1,7 @@
 # Generated from plugin.json. Run scripts/generate_const.py after editing manifest.
 APP_ID = "inventory_scan"
 APP_NAME = "仓库扫描器"
-DEFAULT_GROUP = True
+DEFAULT_GROUP = False
 NEED_NOTIFY = True
 
 PLUGIN_AUTHOR = "idk500"
